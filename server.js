@@ -4,6 +4,7 @@ This script was made by Phillip Ochola under Buildlab
 */
 
 var express = require('express'),
+path = require('path'),
 httpsPort = 8082,
 app = express();
 
